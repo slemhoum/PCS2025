@@ -3,26 +3,25 @@
 
 ## 📂 Repository Structure
 
+```
 PCS2025_<Matricule>_python-calc-scientifique2025/
 │
 ├── notebooks/
-│ └── TP1_clustering_emails.ipynb # Jupyter notebook(s) for TPs and the mini-project
-│
-├── src/
-│ └── clustering_from_scratch.py # Source code implementing K-Means clustering from scratch
+ └── Td_Tp_FD.ipynb      # Jupyter notebook for TPs 
+│└── mini-project.ipynb  # Jupyter notebook for the mini-project
 │
 ├── data/
-│ └── sample_emails.csv # Example or sample email data (or add download instructions)
+│   └── employe3.csv                   # emails data 
 │
 ├── report/
-│ └── mini_project_report.pdf # The detailed report (objectives, methods, results, perspectives)
+│   └── report.pdf             # The detailed report (objectives, methods, results, perspectives)
 │
 ├── articles/
-│ └── related_article.pdf # A recent research article related to BP extraction from emails
+│   └── related_article.pdf                 # A recent research article related to BP extraction from emails
 │
-├── requirements.txt # List of required Python packages
-├── README.md # This file
-
+├── requirements.txt                        # List of required Python packages
+├── README.md                               # This file
+```
 
 ---
 
